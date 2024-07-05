@@ -1,0 +1,18 @@
+body{
+  background-color:DeepSkyBlue
+}
+h1{
+  text-align:center;
+  color:DarkGreen;
+}
+h2{
+  text-align:center;
+  color:LightGoldenrodYellow;
+}
+.opros{
+  display:flex;
+justify-content:center;
+}
+iframe{
+  border:3px solid Gold;
+}
